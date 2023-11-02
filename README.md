@@ -11,6 +11,8 @@ This folder contains the PHP application for ONGC admin users to maintain the qu
 - Adding, updating, and deleting questions.
 - Starting and ending quizzes.
 - Managing quiz data in the SQL database.
+- ![WhatsApp Image 2023-11-02 at 23 46 22_6ac7e5c4](https://github.com/kaursimar12/quiz-management-system/assets/109023363/fcac7e62-a536-4a0f-b3bd-8f50dac73eef)
+
 
 ### 2. login-system
 In this folder, you will find the PHP application responsible for user authentication and authorization. Key features include:
