@@ -12,7 +12,8 @@ This folder contains the PHP application for ONGC admin users to maintain the qu
 - Starting and ending quizzes.
 - Managing quiz data in the SQL database.
 - ![WhatsApp Image 2023-11-02 at 23 46 22_6ac7e5c4](https://github.com/kaursimar12/quiz-management-system/assets/109023363/ca13e48a-181f-4b14-96b3-323504d1f2fb)
-- 
+- ![WhatsApp Image 2023-11-02 at 23 52 51_d160a3d4](https://github.com/kaursimar12/quiz-management-system/assets/109023363/40fe0112-785d-408a-b71c-942e670e4c31)
+
 
 
 
@@ -21,6 +22,10 @@ In this folder, you will find the PHP application responsible for user authentic
 - User registration and login.
 - Authorization control to ensure only authorized users access the quiz section.
 - Secure user authentication and session management.
+- ![WhatsApp Image 2023-11-02 at 23 46 25_9563977c](https://github.com/kaursimar12/quiz-management-system/assets/109023363/ddac99ea-3fc7-4962-8819-523dd2cf57af)
+- ![WhatsApp Image 2023-11-02 at 23 48 42_c89c5c51](https://github.com/kaursimar12/quiz-management-system/assets/109023363/b191f851-63f8-4da1-82b1-67c366e454ff)
+
+
 
 ### 3. cra
 The "cra" folder houses the React application responsible for the user interface, question verification, and validation. Key features include:
@@ -29,6 +34,8 @@ The "cra" folder houses the React application responsible for the user interface
 - User-friendly and responsive quiz interface.
 - Verification and validation of user responses.
 - Displaying quiz results for authorized users, sorted by quiz attempts.
+- ![WhatsApp Image 2023-11-02 at 23 54 18_40ce26f4](https://github.com/kaursimar12/quiz-management-system/assets/109023363/bd23c87c-b43a-4459-a1a9-4ecc9e6df6e4)
+
 
 ## Getting Started
 
